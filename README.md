@@ -1,1 +1,1 @@
-# Ecommerce-Project-Java
+# Ecommerce-Store-Project-Java
